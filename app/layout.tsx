@@ -12,12 +12,9 @@ export const metadata: Metadata = {
   title: "Melodia",
   description: "A Spotify clone..",
   icons: {
-    icon: [
-      {
-        url: "/favicon.svg",
-        type: "image/svg+xml",
-      },
-    ],
+    icon: "/favicon.svg?v=1",
+    shortcut: "/favicon.svg",
+    apple: "/favicon.svg",
   },
 };
 

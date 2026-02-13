@@ -1,5 +1,5 @@
-const SideBarItem = () => {
-  return <div></div>;
+const SidebarItem = () => {
+  return <div>SideCHEEK</div>;
 };
 
-export default SideBarItem;
+export default SidebarItem;
