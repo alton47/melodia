@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Figtree } from "next/font/google";
+import Sidebar from "@/components/Sidebar"; // Ensure this path matches your file location
 import "./globals.css";
 
 const figtree = Figtree({
@@ -27,7 +28,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${figtree.className} antialiased`}>{children}</body>
+      <body className={`${figtree.className} antialiased`}>
+        <Sidebar>{children}</Sidebar>
+      </body>
     </html>
   );
 }
