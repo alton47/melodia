@@ -1,9 +1,0 @@
-Unknown Error in LLM interaction: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
-
-Unknown Error in LLM interaction: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
-
-Unknown Error in LLM interaction: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
-
-Trajectory dumped to jobs/2026-04-03__13-28-25/devops_hard_task__7qBELZm/agent/trajectory.json
-Trial devops_hard_task__7qBELZm failed: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
-
