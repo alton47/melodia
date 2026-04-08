@@ -1,0 +1,29 @@
+{
+    "id": "86e4239f-ca04-4223-9a04-88866812066d",
+    "started_at": "2026-04-03T14:06:55.777903",
+    "finished_at": "2026-04-03T14:08:55.819992",
+    "n_total_trials": 1,
+    "stats": {
+        "n_trials": 1,
+        "n_errors": 0,
+        "evals": {
+            "oracle__adhoc": {
+                "n_trials": 1,
+                "n_errors": 0,
+                "metrics": [
+                    {
+                        "mean": 1.0
+                    }
+                ],
+                "reward_stats": {
+                    "reward": {
+                        "1.0": [
+                            "devops_hard_task__kPYt2tU"
+                        ]
+                    }
+                },
+                "exception_stats": {}
+            }
+        }
+    }
+}
