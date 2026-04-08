@@ -1,0 +1,36 @@
+{
+    "id": "7cfd38a9-9406-4424-8411-4294bdfc5a85",
+    "started_at": "2026-04-03T14:07:19.355008",
+    "finished_at": "2026-04-03T14:22:49.342995",
+    "n_total_trials": 10,
+    "stats": {
+        "n_trials": 10,
+        "n_errors": 10,
+        "evals": {
+            "terminus-2__moonshotai-kimi-k2-instruct-0905__adhoc": {
+                "n_trials": 0,
+                "n_errors": 10,
+                "metrics": [
+                    {
+                        "mean": 0.0
+                    }
+                ],
+                "reward_stats": {},
+                "exception_stats": {
+                    "BadRequestError": [
+                        "devops_hard_task__DxxbqTd",
+                        "devops_hard_task__NuXUDig",
+                        "devops_hard_task__kcseYwT",
+                        "devops_hard_task__PPWhZVn",
+                        "devops_hard_task__pCEKjtG",
+                        "devops_hard_task__MNhvKAn",
+                        "devops_hard_task__dGfxFDr",
+                        "devops_hard_task__W7NuQzR",
+                        "devops_hard_task__KnNvb5f",
+                        "devops_hard_task__sAopKR2"
+                    ]
+                }
+            }
+        }
+    }
+}
