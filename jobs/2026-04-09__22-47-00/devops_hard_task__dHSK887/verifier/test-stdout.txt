@@ -195,4 +195,12 @@ rootdir: /tests
 plugins: json-ctrf-0.3.5
 collected 4 items
 
-../tests/test_outputs.py 
+../tests/test_outputs.py ....                                            [100%]
+
+==================================== PASSES ====================================
+=========================== short test summary info ============================
+PASSED ../tests/test_outputs.py::test_unique_ids
+PASSED ../tests/test_outputs.py::test_filter_by_status
+PASSED ../tests/test_outputs.py::test_retry_moves_to_queue
+PASSED ../tests/test_outputs.py::test_retry_counter_increments
+============================== 4 passed in 32.00s ==============================
