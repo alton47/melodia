@@ -1,3 +1,0 @@
-Installing: tmux, asciinema
-Detected system: {'os': 'debian-based', 'package_manager': 'apt-get', 'update_command': None}
-Installing tools using apt-get: DEBIAN_FRONTEND=noninteractive apt-get update && DEBIAN_FRONTEND=noninteractive apt-get install -y tmux asciinema
