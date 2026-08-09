@@ -1,9 +1,0 @@
-Unknown Error in LLM interaction: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"expired_api_key"}}
-
-Unknown Error in LLM interaction: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"expired_api_key"}}
-
-Unknown Error in LLM interaction: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"expired_api_key"}}
-
-Trajectory dumped to jobs/2026-04-05__13-41-13/distributed_job_queue__SfK9j5G/agent/trajectory.json
-Trial distributed_job_queue__SfK9j5G failed: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"expired_api_key"}}
-
