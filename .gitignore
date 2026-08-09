@@ -15,9 +15,9 @@ venv/
 ENV/
 env/
 
-# ==========================================
+
 # 2. Next.js & Node Ecosystem
-# ==========================================
+
 node_modules/
 **/node_modules/
 .next/
