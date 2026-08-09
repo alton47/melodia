@@ -1,7 +1,0 @@
-Unknown Error in LLM interaction: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"expired_api_key"}}
-
-Unknown Error in LLM interaction: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"expired_api_key"}}
-
-Unknown Error in LLM interaction: litellm.InternalServerError: InternalServerError: GroqException - Cannot connect to host api.groq.com:443 ssl:<ssl.SSLContext object at 0x11a037f50> [Connection reset by peer]
-Trajectory dumped to jobs/2026-04-05__13-10-59/distributed_job_queue__8GxvySp/agent/trajectory.json
-Trial distributed_job_queue__8GxvySp failed: litellm.InternalServerError: InternalServerError: GroqException - Cannot connect to host api.groq.com:443 ssl:<ssl.SSLContext object at 0x11a037f50> [Connection reset by peer]
