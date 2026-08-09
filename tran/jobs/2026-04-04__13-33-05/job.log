@@ -1,0 +1,160 @@
+Installing: tmux, asciinema
+Detected system: {'os': 'debian-based', 'package_manager': 'apt-get', 'update_command': None}
+Installing tools using apt-get: DEBIAN_FRONTEND=noninteractive apt-get update && DEBIAN_FRONTEND=noninteractive apt-get install -y tmux asciinema
+Starting recording.
+Sending keys: ['asciinema rec --stdin /logs/agent/recording.cast', 'Enter'] min_timeout_sec: 1.0 max_timeout_sec: 180.0
+Sending keys: ['clear', 'Enter'] min_timeout_sec: 0.0 max_timeout_sec: 180.0
+Unknown Error in LLM interaction: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+Unknown Error in LLM interaction: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+Unknown Error in LLM interaction: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+Trajectory dumped to jobs/2026-04-04__13-33-05/distributed_job_queue__M8ECarf/agent/trajectory.json
+Trial distributed_job_queue__M8ECarf failed: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+Not retrying trial because the maximum number of retries has been reached
+Installing: tmux, asciinema
+Detected system: {'os': 'debian-based', 'package_manager': 'apt-get', 'update_command': None}
+Installing tools using apt-get: DEBIAN_FRONTEND=noninteractive apt-get update && DEBIAN_FRONTEND=noninteractive apt-get install -y tmux asciinema
+Starting recording.
+Sending keys: ['asciinema rec --stdin /logs/agent/recording.cast', 'Enter'] min_timeout_sec: 1.0 max_timeout_sec: 180.0
+Sending keys: ['clear', 'Enter'] min_timeout_sec: 0.0 max_timeout_sec: 180.0
+Unknown Error in LLM interaction: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+Unknown Error in LLM interaction: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+Unknown Error in LLM interaction: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+Trajectory dumped to jobs/2026-04-04__13-33-05/distributed_job_queue__J5qX2wk/agent/trajectory.json
+Trial distributed_job_queue__J5qX2wk failed: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+Not retrying trial because the maximum number of retries has been reached
+Installing: tmux, asciinema
+Detected system: {'os': 'debian-based', 'package_manager': 'apt-get', 'update_command': None}
+Installing tools using apt-get: DEBIAN_FRONTEND=noninteractive apt-get update && DEBIAN_FRONTEND=noninteractive apt-get install -y tmux asciinema
+Starting recording.
+Sending keys: ['asciinema rec --stdin /logs/agent/recording.cast', 'Enter'] min_timeout_sec: 1.0 max_timeout_sec: 180.0
+Sending keys: ['clear', 'Enter'] min_timeout_sec: 0.0 max_timeout_sec: 180.0
+Unknown Error in LLM interaction: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+Unknown Error in LLM interaction: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+Unknown Error in LLM interaction: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+Trajectory dumped to jobs/2026-04-04__13-33-05/distributed_job_queue__LKJN9kX/agent/trajectory.json
+Trial distributed_job_queue__LKJN9kX failed: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+Not retrying trial because the maximum number of retries has been reached
+Installing: tmux, asciinema
+Detected system: {'os': 'debian-based', 'package_manager': 'apt-get', 'update_command': None}
+Installing tools using apt-get: DEBIAN_FRONTEND=noninteractive apt-get update && DEBIAN_FRONTEND=noninteractive apt-get install -y tmux asciinema
+Starting recording.
+Sending keys: ['asciinema rec --stdin /logs/agent/recording.cast', 'Enter'] min_timeout_sec: 1.0 max_timeout_sec: 180.0
+Sending keys: ['clear', 'Enter'] min_timeout_sec: 0.0 max_timeout_sec: 180.0
+Unknown Error in LLM interaction: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+Unknown Error in LLM interaction: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+Unknown Error in LLM interaction: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+Trajectory dumped to jobs/2026-04-04__13-33-05/distributed_job_queue__q8LFwwE/agent/trajectory.json
+Trial distributed_job_queue__q8LFwwE failed: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+Not retrying trial because the maximum number of retries has been reached
+Installing: tmux, asciinema
+Detected system: {'os': 'debian-based', 'package_manager': 'apt-get', 'update_command': None}
+Installing tools using apt-get: DEBIAN_FRONTEND=noninteractive apt-get update && DEBIAN_FRONTEND=noninteractive apt-get install -y tmux asciinema
+Starting recording.
+Sending keys: ['asciinema rec --stdin /logs/agent/recording.cast', 'Enter'] min_timeout_sec: 1.0 max_timeout_sec: 180.0
+Sending keys: ['clear', 'Enter'] min_timeout_sec: 0.0 max_timeout_sec: 180.0
+Unknown Error in LLM interaction: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+Unknown Error in LLM interaction: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+Unknown Error in LLM interaction: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+Trajectory dumped to jobs/2026-04-04__13-33-05/distributed_job_queue__WqpMUHf/agent/trajectory.json
+Trial distributed_job_queue__WqpMUHf failed: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+Not retrying trial because the maximum number of retries has been reached
+Installing: tmux, asciinema
+Detected system: {'os': 'debian-based', 'package_manager': 'apt-get', 'update_command': None}
+Installing tools using apt-get: DEBIAN_FRONTEND=noninteractive apt-get update && DEBIAN_FRONTEND=noninteractive apt-get install -y tmux asciinema
+Starting recording.
+Sending keys: ['asciinema rec --stdin /logs/agent/recording.cast', 'Enter'] min_timeout_sec: 1.0 max_timeout_sec: 180.0
+Sending keys: ['clear', 'Enter'] min_timeout_sec: 0.0 max_timeout_sec: 180.0
+Unknown Error in LLM interaction: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+Unknown Error in LLM interaction: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+Unknown Error in LLM interaction: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+Trajectory dumped to jobs/2026-04-04__13-33-05/distributed_job_queue__QDLsskL/agent/trajectory.json
+Trial distributed_job_queue__QDLsskL failed: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+Not retrying trial because the maximum number of retries has been reached
+Installing: tmux, asciinema
+Detected system: {'os': 'debian-based', 'package_manager': 'apt-get', 'update_command': None}
+Installing tools using apt-get: DEBIAN_FRONTEND=noninteractive apt-get update && DEBIAN_FRONTEND=noninteractive apt-get install -y tmux asciinema
+Starting recording.
+Sending keys: ['asciinema rec --stdin /logs/agent/recording.cast', 'Enter'] min_timeout_sec: 1.0 max_timeout_sec: 180.0
+Sending keys: ['clear', 'Enter'] min_timeout_sec: 0.0 max_timeout_sec: 180.0
+Unknown Error in LLM interaction: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+Unknown Error in LLM interaction: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+Unknown Error in LLM interaction: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+Trajectory dumped to jobs/2026-04-04__13-33-05/distributed_job_queue__w4ocPdk/agent/trajectory.json
+Trial distributed_job_queue__w4ocPdk failed: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+Not retrying trial because the maximum number of retries has been reached
+Installing: tmux, asciinema
+Detected system: {'os': 'debian-based', 'package_manager': 'apt-get', 'update_command': None}
+Installing tools using apt-get: DEBIAN_FRONTEND=noninteractive apt-get update && DEBIAN_FRONTEND=noninteractive apt-get install -y tmux asciinema
+Starting recording.
+Sending keys: ['asciinema rec --stdin /logs/agent/recording.cast', 'Enter'] min_timeout_sec: 1.0 max_timeout_sec: 180.0
+Sending keys: ['clear', 'Enter'] min_timeout_sec: 0.0 max_timeout_sec: 180.0
+Unknown Error in LLM interaction: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+Unknown Error in LLM interaction: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+Unknown Error in LLM interaction: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+Trajectory dumped to jobs/2026-04-04__13-33-05/distributed_job_queue__zWYxtus/agent/trajectory.json
+Trial distributed_job_queue__zWYxtus failed: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+Not retrying trial because the maximum number of retries has been reached
+Installing: tmux, asciinema
+Detected system: {'os': 'debian-based', 'package_manager': 'apt-get', 'update_command': None}
+Installing tools using apt-get: DEBIAN_FRONTEND=noninteractive apt-get update && DEBIAN_FRONTEND=noninteractive apt-get install -y tmux asciinema
+Starting recording.
+Sending keys: ['asciinema rec --stdin /logs/agent/recording.cast', 'Enter'] min_timeout_sec: 1.0 max_timeout_sec: 180.0
+Sending keys: ['clear', 'Enter'] min_timeout_sec: 0.0 max_timeout_sec: 180.0
+Unknown Error in LLM interaction: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+Unknown Error in LLM interaction: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+Unknown Error in LLM interaction: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+Trajectory dumped to jobs/2026-04-04__13-33-05/distributed_job_queue__xeRP9Cy/agent/trajectory.json
+Trial distributed_job_queue__xeRP9Cy failed: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+Not retrying trial because the maximum number of retries has been reached
+Installing: tmux, asciinema
+Detected system: {'os': 'debian-based', 'package_manager': 'apt-get', 'update_command': None}
+Installing tools using apt-get: DEBIAN_FRONTEND=noninteractive apt-get update && DEBIAN_FRONTEND=noninteractive apt-get install -y tmux asciinema
+Starting recording.
+Sending keys: ['asciinema rec --stdin /logs/agent/recording.cast', 'Enter'] min_timeout_sec: 1.0 max_timeout_sec: 180.0
+Sending keys: ['clear', 'Enter'] min_timeout_sec: 0.0 max_timeout_sec: 180.0
+Unknown Error in LLM interaction: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+Unknown Error in LLM interaction: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+Unknown Error in LLM interaction: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+Trajectory dumped to jobs/2026-04-04__13-33-05/distributed_job_queue__fzqGFjw/agent/trajectory.json
+Trial distributed_job_queue__fzqGFjw failed: litellm.BadRequestError: GroqException - {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+Not retrying trial because the maximum number of retries has been reached
