@@ -1,0 +1,38 @@
+Trajectory dumped to jobs/2026-04-04__10-39-08/distributed_job_queue__vf4ed5M/agent/trajectory.json
+Trajectory dumped to jobs/2026-04-04__10-39-08/distributed_job_queue__vf4ed5M/agent/trajectory.json
+Trajectory dumped to jobs/2026-04-04__10-39-08/distributed_job_queue__vf4ed5M/agent/trajectory.json
+Trajectory dumped to jobs/2026-04-04__10-39-08/distributed_job_queue__vf4ed5M/agent/trajectory.json
+Trajectory dumped to jobs/2026-04-04__10-39-08/distributed_job_queue__vf4ed5M/agent/trajectory.json
+Trajectory dumped to jobs/2026-04-04__10-39-08/distributed_job_queue__vf4ed5M/agent/trajectory.json
+Trajectory dumped to jobs/2026-04-04__10-39-08/distributed_job_queue__vf4ed5M/agent/trajectory.json
+Trajectory dumped to jobs/2026-04-04__10-39-08/distributed_job_queue__vf4ed5M/agent/trajectory.json
+Trajectory dumped to jobs/2026-04-04__10-39-08/distributed_job_queue__vf4ed5M/agent/trajectory.json
+Trajectory dumped to jobs/2026-04-04__10-39-08/distributed_job_queue__vf4ed5M/agent/trajectory.json
+Trajectory dumped to jobs/2026-04-04__10-39-08/distributed_job_queue__vf4ed5M/agent/trajectory.json
+Trajectory dumped to jobs/2026-04-04__10-39-08/distributed_job_queue__vf4ed5M/agent/trajectory.json
+Trajectory dumped to jobs/2026-04-04__10-39-08/distributed_job_queue__vf4ed5M/agent/trajectory.json
+Parser warnings: - Command 1 should end with newline when followed by another command. Otherwise the two commands will be concatenated together on the same line.
+Trajectory dumped to jobs/2026-04-04__10-39-08/distributed_job_queue__vf4ed5M/agent/trajectory.json
+Trajectory dumped to jobs/2026-04-04__10-39-08/distributed_job_queue__vf4ed5M/agent/trajectory.json
+Trajectory dumped to jobs/2026-04-04__10-39-08/distributed_job_queue__vf4ed5M/agent/trajectory.json
+Parser warnings: - Command 1 should end with newline when followed by another command. Otherwise the two commands will be concatenated together on the same line.
+Trajectory dumped to jobs/2026-04-04__10-39-08/distributed_job_queue__vf4ed5M/agent/trajectory.json
+Trajectory dumped to jobs/2026-04-04__10-39-08/distributed_job_queue__vf4ed5M/agent/trajectory.json
+Trajectory dumped to jobs/2026-04-04__10-39-08/distributed_job_queue__vf4ed5M/agent/trajectory.json
+Trajectory dumped to jobs/2026-04-04__10-39-08/distributed_job_queue__vf4ed5M/agent/trajectory.json
+Unknown Error in LLM interaction: litellm.RateLimitError: RateLimitError: GroqException - {"error":{"message":"Rate limit reached for model `moonshotai/kimi-k2-instruct-0905` in organization `org_01kn7vgt80e32afn7gra3q5zse` service tier `on_demand` on tokens per minute (TPM): Limit 10000, Used 3468, Requested 8671. Please try again in 12.834s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+Unknown Error in LLM interaction: litellm.RateLimitError: RateLimitError: GroqException - {"error":{"message":"Rate limit reached for model `moonshotai/kimi-k2-instruct-0905` in organization `org_01kn7vgt80e32afn7gra3q5zse` service tier `on_demand` on tokens per minute (TPM): Limit 10000, Used 1936, Requested 8656. Please try again in 3.552s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+Trajectory dumped to jobs/2026-04-04__10-39-08/distributed_job_queue__vf4ed5M/agent/trajectory.json
+Trajectory dumped to jobs/2026-04-04__10-39-08/distributed_job_queue__vf4ed5M/agent/trajectory.json
+Trajectory dumped to jobs/2026-04-04__10-39-08/distributed_job_queue__vf4ed5M/agent/trajectory.json
+Unknown Error in LLM interaction: litellm.RateLimitError: RateLimitError: GroqException - {"error":{"message":"Request too large for model `moonshotai/kimi-k2-instruct-0905` in organization `org_01kn7vgt80e32afn7gra3q5zse` service tier `on_demand` on tokens per minute (TPM): Limit 10000, Requested 11922, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+Unknown Error in LLM interaction: litellm.RateLimitError: RateLimitError: GroqException - {"error":{"message":"Request too large for model `moonshotai/kimi-k2-instruct-0905` in organization `org_01kn7vgt80e32afn7gra3q5zse` service tier `on_demand` on tokens per minute (TPM): Limit 10000, Requested 12256, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+Unknown Error in LLM interaction: litellm.RateLimitError: RateLimitError: GroqException - {"error":{"message":"Request too large for model `moonshotai/kimi-k2-instruct-0905` in organization `org_01kn7vgt80e32afn7gra3q5zse` service tier `on_demand` on tokens per minute (TPM): Limit 10000, Requested 11907, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+Trajectory dumped to jobs/2026-04-04__10-39-08/distributed_job_queue__vf4ed5M/agent/trajectory.json
+Trial distributed_job_queue__vf4ed5M failed: litellm.RateLimitError: RateLimitError: GroqException - {"error":{"message":"Request too large for model `moonshotai/kimi-k2-instruct-0905` in organization `org_01kn7vgt80e32afn7gra3q5zse` service tier `on_demand` on tokens per minute (TPM): Limit 10000, Requested 11907, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
